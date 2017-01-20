@@ -8,7 +8,7 @@ Acá hay una [guía oficial](http://telegra.ph/Create-Telegram-Theme-01-12) para
 
 1) Editar el archivo colors.tdesktop-theme
 2) Si querés cambiar el fondo. El fondo en mosáico se tiene que llamar `tiled.png` o `tiled.jpg` mientras que el fondo normal tiene que ser `background.png` o `background.jpg`.  
-3) Comprimir ambos archivos en un paquete .zip y renombralo como `TU'TEMA.tdesktop-theme` (cuidado con la extensión!).  
+3) Comprimir ambos archivos en un paquete .zip y renombralo como `TU-TEMA.tdesktop-theme` (cuidado con la extensión!).  
 4) Envialo a cualquier chat en Telegram Desktop, descargalo y aplicaclo!!  
 5) Si querés volver al tema por default, hay que hacer click en `Use default color theme` en los ajustes de la aplicación.  
 
