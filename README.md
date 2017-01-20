@@ -1,22 +1,16 @@
-# Solid Dark Theme for Telegram Desktop
+# NeoManjaroTheme for Telegram Desktop (Fork of SolidDarkTheme from MasterGroosha)
 
-This repo contais some (or currently one :D) Solid Dark themes for Telegram Desktop.
+Este repositorio contiene un tema para modificar el look and feel de Telegram Desktop
 
-Here's for example how Solid Dark Green looks like:
+## Como modificar e instalar el tema
 
-![Solid Dark Green](http://telegra.ph/file/599b5035057cfe72050f1.png)
+Acá hay una [guía oficial](http://telegra.ph/Create-Telegram-Theme-01-12) para hacer temas (aca hay una guía no oficial en [version Rusa](http://telegra.ph/Telegram-Desktop-Rukovodstvo-po-temam-01-12))
 
-Also looks fine in JetBrains' IDEs (IDEA, pyCharm and so on...)
-![How it looks in pyCharm](https://pp.vk.me/c637720/v637720512/2c4c1/sxbeyUq-uu4.jpg)
+1) Editar el archivo colors.tdesktop-theme
+2) Si querés cambiar el fondo. El fondo en mosáico se tiene que llamar `tiled.png` o `tiled.jpg` mientras que el fondo normal tiene que ser `background.png` o `background.jpg`.  
+3) Comprimir ambos archivos en un paquete .zip y renombralo como `TU'TEMA.tdesktop-theme` (cuidado con la extensión!).  
+4) Envialo a cualquier chat en Telegram Desktop, descargalo y aplicaclo!!  
+5) Si querés volver al tema por default, hay que hacer click en `Use default color theme` en los ajustes de la aplicación.  
 
-## How to modify & install theme
-
-There's an [official guide](http://telegra.ph/Create-Telegram-Theme-01-12) how to make themes (there's also an unofficial [Russian version](http://telegra.ph/Telegram-Desktop-Rukovodstvo-po-temam-01-12) of the guide)
-
-1) Edit colors.tdesktop-theme file.  
-2) Change background (if you want). Tiled backgrounds should be named `tiled.png` or `tiled.jpg` while normal backgrounds should be names as `background.png` or `background.jpg`.  
-3) Pack both files into zip-archive and rename it as `YOUR-THEME.tdesktop-theme` (watch the extension!).  
-4) Send it to any chat in Telegram Desktop, then download, click and apply!  
-5) If you want to revert to default theme, click `Use default color theme` button in settings.  
-
-Don't forget to Subscribe to [@SolidDarkTheme](https://telegram.me/SolidDarkTheme) channel ;) More themes coming soon!
+No olvides suscribirte a nuestro canal de Telegram [@NeoSiteLinux](https://telegram.me/NeoSiteLinux) 
+Y a nuestro grupo de Telegram [@ManjaroLinuxEs](https://telegram.me/ManjaroLinuxEs)
